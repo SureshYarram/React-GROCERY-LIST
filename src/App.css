@@ -1,0 +1,46 @@
+.inputdiv {
+  margin-top: 40px;
+  margin-left: 500px;
+  border: 1px solid transparent;
+  width: 300px;
+  height: 100px;
+  background-color: lightslategray;
+}
+.inputdiv > input {
+  margin: 30px;
+  margin-left: 20px;
+  width: 150px;
+  height: 20px;
+}
+h1 {
+  margin-top: 20px;
+  margin-left: 580px;
+  font-family: cursive;
+}
+.inputdiv > button {
+  background-color: blue;
+  color: white;
+}
+/* .showdiv {
+  background-color: cornsilk;
+  height: 20px;
+  margin-left: 500px;
+  width: 500px;
+  border: 1px solid black;
+  margin-top: 10px;
+} */
+
+.showdiv > div {
+  width: 500px;
+
+  border: 1px solid black;
+  margin: 10px;
+  margin-left: 500px;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  background-color: grey;
+}
+.showdiv button {
+  background-color: tomato;
+}
